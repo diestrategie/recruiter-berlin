@@ -567,6 +567,9 @@ export default function Home() {
           <p className="text-center mt-[10px] text-[13px] text-gray-400">
             &copy; 2025 D.I.E. STRATEGIE GmbH – recruiter.berlin
           </p>
+          <p className="text-center mt-[5px] text-[12px] text-gray-400">
+  Bildnachweis: © Stefan Widua / Unsplash
+</p>
         </div>
       </footer>
     </>
