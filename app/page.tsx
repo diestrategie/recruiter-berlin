@@ -8,7 +8,8 @@ export default function Home() {
         <title>recruiter.berlin – Premium-Domain für Recruiting, Headhunting &amp; Personalberatung in Berlin</title>
         <meta
           name="description"
-          content="Sichere dir recruiter.berlin – die Premium-Domain für Recruiter, Headhunter & Personalberater in Berlin. Ideal für Recruiting-Agenturen, HR-Startups & Personalberatungen. Fixpreis 5.900 € zzgl. MwSt."
+          content="Sichere dir recruiter.berlin – die Premium-Domain für Recruiter, Headhunter & Personalberater in Berlin. Ideal für Recruiting-Agenturen, HR-Startups & Personalberatungen. Fixpreis 7.021 € inkl. 19 % MwSt.
+"
         />
         <link rel="canonical" href="https://recruiter.berlin/" />
 
@@ -19,7 +20,8 @@ export default function Home() {
         />
         <meta
           property="og:description"
-          content="Sichere dir recruiter.berlin – die Premium-Domain für Recruiter, Headhunter & Personalberater in Berlin. Ideal für Recruiting-Agenturen, HR-Startups & Personalberatungen. Fixpreis 5.900 € zzgl. MwSt."
+          content="Sichere dir recruiter.berlin – die Premium-Domain für Recruiter, Headhunter & Personalberater in Berlin. Ideal für Recruiting-Agenturen, HR-Startups & Personalberatungen. Fixpreis 7.021 € inkl. 19 % MwSt.
+"
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://recruiter.berlin/" />
@@ -36,7 +38,8 @@ export default function Home() {
         />
         <meta
           name="twitter:description"
-          content="Premium-Domain für Recruiter, Headhunter & Personalberatung in Berlin. Fixpreis 5.900 € zzgl. MwSt."
+          content="Premium-Domain für Recruiter, Headhunter & Personalberatung in Berlin. Fixpreis 7.021 € inkl. 19 % MwSt.
+"
         />
         <meta
           name="twitter:image"
@@ -92,7 +95,8 @@ export default function Home() {
                   "name": "Ist der Preis verhandelbar?",
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Der Kaufpreis von 5.900 € zzgl. MwSt. ist als Fixpreis kalkuliert. Bei Interesse an mehreren Domains wie recruiter.hamburg oder recruiter.koeln können individuelle Paketpreise vereinbart werden."
+                    "text": "Der Kaufpreis von 7.021 € inkl. 19 % MwSt.
+ ist als Fixpreis kalkuliert. Bei Interesse an mehreren Domains wie recruiter.hamburg oder recruiter.koeln können individuelle Paketpreise vereinbart werden."
                   }
                 },
                 {
@@ -188,7 +192,7 @@ export default function Home() {
             der Hauptstadt: für Personalberatung, Headhunter, Recruiting-Agenturen, HR-Startups,
             Inhouse-Recruiting-Teams sowie Portale für <strong>Recruiting Jobs in Berlin</strong> und{' '}
             <strong>HR Jobs in Berlin</strong>. Einmalig, merkfähig – und verfügbar zum Fixpreis von
-            5.900 € zzgl. MwSt.
+            7.021 € inkl. 19 % MwSt.
           </p>
           <a
             href="#preis"
@@ -342,9 +346,11 @@ export default function Home() {
               <p className="text-base mb-[15px] text-gray-600">
                 Keine Verhandlungen, keine Bieterverfahren – ein klarer, transparenter Fixpreis.
               </p>
-              <div className="text-5xl font-bold text-[#e60000] my-[30px]">5.900 € zzgl. MwSt.</div>
+              <div className="text-5xl font-bold text-[#e60000] my-[30px]">7.021 € inkl. 19 % MwSt.
+</div>
               <p className="text-base mb-[15px] text-gray-600">
-                Einmaliger Kaufpreis von 5.900 € zzgl. MwSt. sowie ggf. Gebühren des
+                Einmaliger Kaufpreis von 7.021 € inkl. 19 % MwSt.
+ sowie ggf. Gebühren des
                 Treuhanddienstleisters/Marktplatzes. Mit dem Kauf sichern Sie sich die Domain dauerhaft
                 für Ihr Recruiting in Berlin.
               </p>
@@ -436,7 +442,8 @@ export default function Home() {
           <div className="mb-10">
             <h3 className="text-xl mb-[15px] text-gray-800">Ist der Preis verhandelbar?</h3>
             <p className="text-base text-gray-600 mb-0">
-              Grundsätzlich ist der Preis von 5.900 € zzgl. MwSt. als Fixpreis kalkuliert. Bei Interesse
+              Grundsätzlich ist der Preis von 7.021 € inkl. 19 % MwSt.
+ als Fixpreis kalkuliert. Bei Interesse
               an mehreren Domains (z.&nbsp;B. recruiter.hamburg, recruiter.koeln) können individuelle
               Paketpreise abgestimmt werden.
             </p>
