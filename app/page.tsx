@@ -511,10 +511,9 @@ export default function Home() {
               Tel.: +49 (0)731 14617891
               <br />
               E-Mail:{' '}
-              <a href="mailto:domain@recruiter.berlin
-" className="text-gray-600 underline">
-                domain@recruiter.berlin
-              </a>
+              <a href="mailto:domain@recruiter.berlin" className="text-gray-600 underline">
+  domain@recruiter.berlin
+</a>
             </p>
             <p className="text-sm mb-[10px] leading-relaxed">
               Geschäftsführer: Damir Koren
@@ -543,10 +542,9 @@ export default function Home() {
             <p className="text-sm mb-[10px] leading-relaxed">
               <strong>Verantwortlicher:</strong> D.I.E. STRATEGIE GmbH, Ensingerstr. 33/2, 89073 Ulm,
               E-Mail:{' '}
-              <a href="mailto:domain@recruiter.berlin
-" className="text-gray-600 underline">
-                domain@recruiter.berlin
-              </a>
+              <a href="mailto:domain@recruiter.berlin" className="text-gray-600 underline">
+  domain@recruiter.berlin
+</a>
               .
             </p>
             <p className="text-sm mb-[10px] leading-relaxed">
@@ -559,10 +557,9 @@ export default function Home() {
             <a href="#top" className="mx-3 text-gray-500 no-underline">
               Nach oben
             </a>
-            <a href="mailto:domain@recruiter.berlin
-" className="mx-3 text-gray-500 no-underline">
-              Kontakt per E-Mail
-            </a>
+           <a href="mailto:domain@recruiter.berlin" className="mx-3 text-gray-500 no-underline">
+  Kontakt per E-Mail
+</a>
             <a href="#impressum" className="mx-3 text-gray-500 no-underline">
               Impressum
             </a>
