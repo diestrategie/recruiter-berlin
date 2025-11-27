@@ -351,12 +351,11 @@ export default function Home() {
                 für Ihr Recruiting in Berlin.
               </p>
               <a
-                href="mailto:domain@recruiter.berlin
-?subject=Anfrage%20recruiter.berlin"
-                className="inline-block bg-[#e60000] text-white px-10 py-4 no-underline rounded font-semibold text-lg hover:bg-[#cc0000] transition-colors"
-              >
-                Domain jetzt verbindlich anfragen
-              </a>
+  href="mailto:domain@recruiter.berlin?subject=Anfrage%20recruiter.berlin"
+  className="inline-block bg-[#e60000] text-white px-10 py-4 no-underline rounded font-semibold text-lg hover:bg-[#cc0000] transition-colors"
+>
+  Domain jetzt verbindlich anfragen
+</a>
               <p className="text-sm text-gray-500 mt-5">
                 Auf Wunsch kann die Zahlungsabwicklung über einen etablierten Treuhandservice (Escrow)
                 erfolgen.
