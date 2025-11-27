@@ -63,8 +63,7 @@ export default function Home() {
                 "priceCurrency": "EUR",
                 "price": "7021",
                 "availability": "https://schema.org/InStock",
-                "url": "mailto:domain@recruiter.berlin
-?subject=Anfrage%20recruiter.berlin"
+                "url": "mailto:domain@recruiter.berlin?subject=Anfrage%20recruiter.berlin"
               }
             }
           `,
