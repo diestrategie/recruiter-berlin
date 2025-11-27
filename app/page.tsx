@@ -63,7 +63,8 @@ export default function Home() {
                 "priceCurrency": "EUR",
                 "price": "7021",
                 "availability": "https://schema.org/InStock",
-                "url": "mailto:post@die-strategie.gmbh?subject=Anfrage%20recruiter.berlin"
+                "url": "mailto:domain@recruiter.berlin
+?subject=Anfrage%20recruiter.berlin"
               }
             }
           `,
@@ -351,7 +352,8 @@ export default function Home() {
                 für Ihr Recruiting in Berlin.
               </p>
               <a
-                href="mailto:post@die-strategie.gmbh?subject=Anfrage%20recruiter.berlin"
+                href="mailto:domain@recruiter.berlin
+?subject=Anfrage%20recruiter.berlin"
                 className="inline-block bg-[#e60000] text-white px-10 py-4 no-underline rounded font-semibold text-lg hover:bg-[#cc0000] transition-colors"
               >
                 Domain jetzt verbindlich anfragen
@@ -365,7 +367,8 @@ export default function Home() {
               <h3 className="text-2xl mb-5 text-gray-800">Ablauf</h3>
               <ul className="list-none mt-5">
                 <li className="text-base mb-[15px] pl-10 relative text-gray-600 before:content-['1'] before:absolute before:left-0 before:w-7 before:h-7 before:bg-[#e60000] before:text-white before:rounded-full before:flex before:items-center before:justify-center before:font-bold before:text-sm">
-                  Anfrage an post@die-strategie.gmbh mit Betreff „recruiter.berlin"
+                  Anfrage an domain@recruiter.berlin
+ mit Betreff „recruiter.berlin"
                 </li>
                 <li className="text-base mb-[15px] pl-10 relative text-gray-600 before:content-['2'] before:absolute before:left-0 before:w-7 before:h-7 before:bg-[#e60000] before:text-white before:rounded-full before:flex before:items-center before:justify-center before:font-bold before:text-sm">
                   Schriftliches Angebot und Bestätigung der Konditionen
@@ -509,8 +512,9 @@ export default function Home() {
               Tel.: +49 (0)731 14617891
               <br />
               E-Mail:{' '}
-              <a href="mailto:post@die-strategie.gmbh" className="text-gray-600 underline">
-                post@die-strategie.gmbh
+              <a href="mailto:domain@recruiter.berlin
+" className="text-gray-600 underline">
+                domain@recruiter.berlin
               </a>
             </p>
             <p className="text-sm mb-[10px] leading-relaxed">
@@ -540,8 +544,9 @@ export default function Home() {
             <p className="text-sm mb-[10px] leading-relaxed">
               <strong>Verantwortlicher:</strong> D.I.E. STRATEGIE GmbH, Ensingerstr. 33/2, 89073 Ulm,
               E-Mail:{' '}
-              <a href="mailto:post@die-strategie.gmbh" className="text-gray-600 underline">
-                post@die-strategie.gmbh
+              <a href="mailto:domain@recruiter.berlin
+" className="text-gray-600 underline">
+                domain@recruiter.berlin
               </a>
               .
             </p>
@@ -555,7 +560,8 @@ export default function Home() {
             <a href="#top" className="mx-3 text-gray-500 no-underline">
               Nach oben
             </a>
-            <a href="mailto:post@die-strategie.gmbh" className="mx-3 text-gray-500 no-underline">
+            <a href="mailto:domain@recruiter.berlin
+" className="mx-3 text-gray-500 no-underline">
               Kontakt per E-Mail
             </a>
             <a href="#impressum" className="mx-3 text-gray-500 no-underline">
