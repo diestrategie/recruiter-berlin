@@ -530,27 +530,35 @@ export default function Home() {
             </p>
           </section>
 
-          <section id="datenschutz" className="pb-10">
-            <h3 className="text-lg mb-[15px] text-gray-800">Datenschutz</h3>
-            <p className="text-sm mb-[10px] leading-relaxed">
-              Diese Website verwendet keine Cookies, keine Tracking-Tools und keine Formulare. Es werden
-              lediglich technisch notwendige Server-Logfiles erfasst (z.&nbsp;B. gekürzte IP-Adresse,
-              Datum und Uhrzeit des Zugriffs, Browsertyp). Diese Daten werden zur Sicherstellung des
-              technischen Betriebs und der IT-Sicherheit verwendet und anschließend automatisch gelöscht.
-            </p>
-            <p className="text-sm mb-[10px] leading-relaxed">
-              <strong>Verantwortlicher:</strong> D.I.E. STRATEGIE GmbH, Ensingerstr. 33/2, 89073 Ulm,
-              E-Mail:{' '}
-              <a href="mailto:domain@recruiter.berlin" className="text-gray-600 underline">
-  domain@recruiter.berlin
-</a>
-              .
-            </p>
-            <p className="text-sm mb-[10px] leading-relaxed">
-              <strong>Zweck der Seite:</strong> Präsentation und Verkauf der Domain{' '}
-              <strong>recruiter.berlin</strong>.
-            </p>
-          </section>
+         <div class="footer-section">
+                <h3>Datenschutzerklärung</h3>
+                
+                <h4>Verantwortlicher</h4>
+                <address>
+                    D.I.E. STRATEGIE GmbH<br>
+                    Ensingerstr. 33/2<br>
+                    89073 Ulm, Deutschland<br>
+                    E-Mail: <a href="mailto:post@die-strategie.gmbh">post@die-strategie.gmbh</a>
+                </address>
+
+                <h4>Zweck &amp; Datenverarbeitung</h4>
+                <p>Diese Website dient ausschließlich der Information und dem Verkauf der Domain recruiter.hamburg.</p>
+                <p>Beim Aufruf der Website werden durch den Hostinganbieter technisch notwendige Zugriffsdaten (u. a. IP-Adresse, Datum und Uhrzeit des Zugriffs) in Server-Logfiles verarbeitet.</p>
+
+                <h4>Rechtsgrundlage</h4>
+                <p>Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse am sicheren und stabilen Betrieb der Website).</p>
+
+                <h4>Speicherdauer</h4>
+                <p>Die Daten werden nur solange gespeichert, wie es für den technischen Betrieb erforderlich ist, und anschließend gelöscht oder anonymisiert.</p>
+
+                <h4>Keine Cookies &amp; kein Tracking</h4>
+                <p>Diese Website verwendet keine Cookies, kein Tracking, keine Analyse-Tools und keine Social-Media-Plugins.</p>
+
+                <h4>Ihre Rechte</h4>
+                <p>Sie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung sowie Widerspruch. Eine formlose Mitteilung an die oben genannte Kontaktadresse genügt.</p>
+                
+                <p>Verantwortlicher: D.I.E. STRATEGIE GmbH, Ensingerstr. 33/2, 89073 Ulm, E-Mail: <a href="mailto:domain@recruiter.hamburg">domain@recruiter.hamburg</a>.</p>
+            </div>
 
           <div className="text-center mt-[30px] text-sm text-gray-500">
             <a href="#top" className="mx-3 text-gray-500 no-underline">
