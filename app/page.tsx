@@ -538,11 +538,11 @@ export default function Home() {
                     D.I.E. STRATEGIE GmbH<br>
                     Ensingerstr. 33/2<br>
                     89073 Ulm, Deutschland<br>
-                    E-Mail: <a href="mailto:post@die-strategie.gmbh">post@die-strategie.gmbh</a>
+                    E-Mail: <a href="mailto:domain@recruiter.berlin">domain@recruiter.berlin</a>
                 </address>
 
                 <h4>Zweck &amp; Datenverarbeitung</h4>
-                <p>Diese Website dient ausschließlich der Information und dem Verkauf der Domain recruiter.hamburg.</p>
+                <p>Diese Website dient ausschließlich der Information und dem Verkauf der Domain recruiter.berlin.</p>
                 <p>Beim Aufruf der Website werden durch den Hostinganbieter technisch notwendige Zugriffsdaten (u. a. IP-Adresse, Datum und Uhrzeit des Zugriffs) in Server-Logfiles verarbeitet.</p>
 
                 <h4>Rechtsgrundlage</h4>
@@ -557,7 +557,7 @@ export default function Home() {
                 <h4>Ihre Rechte</h4>
                 <p>Sie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung sowie Widerspruch. Eine formlose Mitteilung an die oben genannte Kontaktadresse genügt.</p>
                 
-                <p>Verantwortlicher: D.I.E. STRATEGIE GmbH, Ensingerstr. 33/2, 89073 Ulm, E-Mail: <a href="mailto:domain@recruiter.hamburg">domain@recruiter.hamburg</a>.</p>
+                <p>Verantwortlicher: D.I.E. STRATEGIE GmbH, Ensingerstr. 33/2, 89073 Ulm, E-Mail: <a href="mailto:domain@recruiter.berlin">domain@recruiter.berlin</a>.</p>
             </div>
 
           <div className="text-center mt-[30px] text-sm text-gray-500">
