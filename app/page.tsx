@@ -496,8 +496,9 @@ export default function Home() {
         </p>
       </section>
 
-      <footer id="kontakt" className="bg-gray-200 py-[60px] px-5 text-sm text-gray-600">
+          <footer id="kontakt" className="bg-gray-200 py-[60px] px-5 text-sm text-gray-600">
         <div className="max-w-[1200px] mx-auto">
+          {/* Impressum */}
           <section id="impressum" className="pb-10">
             <h3 className="text-lg mb-[15px] text-gray-800">Impressum</h3>
             <p className="text-sm mb-[10px] leading-relaxed">
@@ -511,8 +512,8 @@ export default function Home() {
               <br />
               E-Mail:{' '}
               <a href="mailto:domain@recruiter.berlin" className="text-gray-600 underline">
-  domain@recruiter.berlin
-</a>
+                domain@recruiter.berlin
+              </a>
             </p>
             <p className="text-sm mb-[10px] leading-relaxed">
               Geschäftsführer: Damir Koren
@@ -529,66 +530,80 @@ export default function Home() {
               Verkauf nur an Unternehmer (B2B), kein Verkauf an Verbraucher.
             </p>
           </section>
-<div className="footer-section mt-10 text-sm leading-relaxed">
-  <h3 className="text-lg font-semibold mb-4">Datenschutzerklärung</h3>
 
-  <h4 className="font-semibold mb-1">Verantwortlicher</h4>
-  <address className="not-italic mb-3">
-    D.I.E. STRATEGIE GmbH<br />
-    Ensingerstr. 33/2<br />
-    89073 Ulm, Deutschland<br />
-    E-Mail: <a href="mailto:domain@recruiter.berlin">domain@recruiter.berlin</a>
-  </address>
+          {/* Datenschutz */}
+          <section
+            id="datenschutz"
+            className="pt-2 pb-10 text-sm leading-relaxed border-t border-gray-300 mt-4"
+          >
+            <h3 className="text-lg font-semibold mb-4 text-gray-800">Datenschutzerklärung</h3>
 
-  <h4 className="font-semibold mb-1">Zweck &amp; Datenverarbeitung</h4>
-  <p className="mb-2">
-    Diese Website dient ausschließlich der Präsentation und dem Verkauf der Domain
-    <strong> recruiter.berlin</strong>. Beim Aufruf der Website werden ausschließlich
-    technisch notwendige Server-Logfiles durch den Hostinganbieter verarbeitet
-    (z.&nbsp;B. anonymisierte IP-Adresse, Datum und Uhrzeit des Zugriffs, Browserversion).
-    Diese Daten werden ausschließlich zur Sicherstellung des technischen Betriebs
-    und der IT-Sicherheit genutzt und automatisch gelöscht.
-  </p>
+            <h4 className="font-semibold mb-1">Verantwortlicher</h4>
+            <p className="mb-3">
+              D.I.E. STRATEGIE GmbH
+              <br />
+              Ensingerstr. 33/2
+              <br />
+              89073 Ulm, Deutschland
+              <br />
+              E-Mail:{' '}
+              <a href="mailto:domain@recruiter.berlin" className="underline">
+                domain@recruiter.berlin
+              </a>
+            </p>
 
-  <h4 className="font-semibold mb-1">Rechtsgrundlage</h4>
-  <p className="mb-2">
-    Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO
-    (berechtigtes Interesse am sicheren und stabilen Betrieb der Website).
-  </p>
+            <h4 className="font-semibold mb-1">Zweck &amp; Datenverarbeitung</h4>
+            <p className="mb-2">
+              Diese Website dient ausschließlich der Präsentation und dem Verkauf der Domain
+              <strong> recruiter.berlin</strong>. Beim Aufruf der Website werden ausschließlich technisch
+              notwendige Server-Logfiles durch den Hostinganbieter verarbeitet (z.&nbsp;B. anonymisierte
+              IP-Adresse, Datum und Uhrzeit des Zugriffs, Browserversion). Diese Daten werden ausschließlich
+              zur Sicherstellung des technischen Betriebs und der IT-Sicherheit genutzt und automatisch
+              gelöscht.
+            </p>
 
-  <h4 className="font-semibold mb-1">Speicherdauer</h4>
-  <p className="mb-2">
-    Die Daten werden nur solange gespeichert, wie es für den technischen Betrieb
-    erforderlich ist, und anschließend gelöscht oder anonymisiert.
-  </p>
+            <h4 className="font-semibold mb-1">Rechtsgrundlage</h4>
+            <p className="mb-2">
+              Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse
+              am sicheren und stabilen Betrieb der Website).
+            </p>
 
-  <h4 className="font-semibold mb-1">Keine Cookies &amp; kein Tracking</h4>
-  <p className="mb-2">
-    Diese Website verwendet keine Cookies, keine Tracking-Tools und keine Social-Media-Plugins.
-  </p>
+            <h4 className="font-semibold mb-1">Speicherdauer</h4>
+            <p className="mb-2">
+              Die Daten werden nur solange gespeichert, wie es für den technischen Betrieb erforderlich ist,
+              und anschließend gelöscht oder anonymisiert.
+            </p>
 
-  <h4 className="font-semibold mb-1">Ihre Rechte</h4>
-  <p className="mb-2">
-    Sie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung,
-    Einschränkung der Verarbeitung sowie Widerspruch. Eine formlose Mitteilung
-    an die oben genannte Kontaktadresse genügt.
-  </p>
+            <h4 className="font-semibold mb-1">Keine Cookies &amp; kein Tracking</h4>
+            <p className="mb-2">
+              Diese Website verwendet keine Cookies, keine Tracking-Tools und keine Social-Media-Plugins.
+            </p>
 
-  <h4 className="font-semibold mb-1">Verantwortlicher im Sinne der DSGVO</h4>
-  <p className="mb-2">
-    Verantwortlicher: D.I.E. STRATEGIE GmbH, Ensingerstr. 33/2, 89073 Ulm,
-    E-Mail: <a href="mailto:domain@recruiter.berlin">domain@recruiter.berlin</a>.
-  </p>
-</div>
+            <h4 className="font-semibold mb-1">Ihre Rechte</h4>
+            <p className="mb-2">
+              Sie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der
+              Verarbeitung sowie Widerspruch. Eine formlose Mitteilung an die oben genannte Kontaktadresse
+              genügt.
+            </p>
 
+            <h4 className="font-semibold mb-1">Verantwortlicher im Sinne der DSGVO</h4>
+            <p className="mb-0">
+              Verantwortlicher: D.I.E. STRATEGIE GmbH, Ensingerstr. 33/2, 89073 Ulm, E-Mail:{' '}
+              <a href="mailto:domain@recruiter.berlin" className="underline">
+                domain@recruiter.berlin
+              </a>
+              .
+            </p>
+          </section>
 
-          <div className="text-center mt-[30px] text-sm text-gray-500">
+          {/* Footer-Navigation */}
+          <div className="text-center mt-[10px] text-sm text-gray-500">
             <a href="#top" className="mx-3 text-gray-500 no-underline">
               Nach oben
             </a>
-           <a href="mailto:domain@recruiter.berlin" className="mx-3 text-gray-500 no-underline">
-  Kontakt per E-Mail
-</a>
+            <a href="mailto:domain@recruiter.berlin" className="mx-3 text-gray-500 no-underline">
+              Kontakt per E-Mail
+            </a>
             <a href="#impressum" className="mx-3 text-gray-500 no-underline">
               Impressum
             </a>
